@@ -1,4 +1,4 @@
-# Bike-Sharing-Dataset
+# DC-Bike-Share-Demand-Analysis
 Exploratory Data Analysis: Bike-Share Analysis in Washington DC
 This notebook documents exploratory analysis for the Bike Sharing Dataset. It contains the following steps:
 1. Introduction
